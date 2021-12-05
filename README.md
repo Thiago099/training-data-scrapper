@@ -1,9 +1,9 @@
 # training-data-scrapper
 downloads training data to be used in machine learing
 
-##description
+## description
 it does most of the work but you still need exclude images by hand for proper training
 
-##Download chomedriver
+## Download chomedriver
 chromedriver.exe
 
