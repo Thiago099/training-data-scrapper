@@ -5,5 +5,6 @@ downloads training data to be used in machine learing
 it does most of the work but you still need exclude images by hand for proper training
 
 ## Download chomedriver
+https://chromedriver.chromium.org/downloads
 chromedriver.exe
 
